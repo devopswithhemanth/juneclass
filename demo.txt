@@ -3,3 +3,4 @@ this is the second line  after initial commit
 editing it from ui
 editing file in featurebranch
 adding text to the branch
+editing the file in feature2 branch
